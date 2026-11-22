@@ -1,0 +1,716 @@
+{
+  "마태": [
+    {
+      "name": "강연찬",
+      "hours": "✔",
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "정일형",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "곽봉근",
+      "hours": 30,
+      "studies": "",
+      "remarks": "보조파이오니아"
+    },
+    {
+      "name": "김계춘(R)",
+      "hours": 54,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김영애(R)",
+      "hours": 62,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김지현(R)",
+      "hours": 46,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김혜경(R)",
+      "hours": 56,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "방옥자",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "백복남(R)",
+      "hours": 130,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "유병민",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "백순희(R)",
+      "hours": 48,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "유병환(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이상훈(R)",
+      "hours": 58,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "이유준",
+      "hours": 32,
+      "studies": "",
+      "remarks": "보조파이오니아"
+    },
+    {
+      "name": "이정환",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정윤(R)",
+      "hours": 63,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "최새봄(R)",
+      "hours": 2,
+      "studies": "",
+      "remarks": "육아및 건강문제"
+    },
+    {
+      "name": "홍윤미(R)",
+      "hours": 52,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "황순녀(R)",
+      "hours": 50,
+      "studies": 1,
+      "remarks": ""
+    }
+  ],
+  "마가": [
+    {
+      "name": "김기민",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김두섭",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "고길례(R)",
+      "hours": "",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김대석(R)",
+      "hours": 73,
+      "studies": 2,
+      "remarks": ""
+    },
+    {
+      "name": "김수미",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김순묵",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김용교",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김인형",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "남복수",
+      "hours": 50,
+      "studies": 3,
+      "remarks": ""
+    },
+    {
+      "name": "송병례(R)",
+      "hours": 53,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "박지영",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "송영진",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "윤돈자",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이근우(R)",
+      "hours": 60,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이병호",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이종화(R)",
+      "hours": 35,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "이현주(R)",
+      "hours": 50,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "조현일",
+      "hours": 16,
+      "studies": "",
+      "remarks": "보조16.5시간"
+    },
+    {
+      "name": "조희경(R)",
+      "hours": 71,
+      "studies": 2,
+      "remarks": ""
+    },
+    {
+      "name": "최장범(R)",
+      "hours": 18,
+      "studies": "",
+      "remarks": "베델40"
+    },
+    {
+      "name": "표정완",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    }
+  ],
+  "누가": [
+    {
+      "name": "김명주(R)",
+      "hours": 40,
+      "studies": "",
+      "remarks": "LDC 15시간"
+    },
+    {
+      "name": "강은서",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김서희(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김세린",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김아인(B)",
+      "hours": 33,
+      "studies": "",
+      "remarks": "보조파이오니아"
+    },
+    {
+      "name": "김여주(R)",
+      "hours": 55,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "김영서",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김영순(R)",
+      "hours": 51,
+      "studies": 2,
+      "remarks": ""
+    },
+    {
+      "name": "김용현(R)",
+      "hours": 48,
+      "studies": "",
+      "remarks": "환자방문단 2시간"
+    },
+    {
+      "name": "박승자(R)",
+      "hours": 57,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이창근",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정나영",
+      "hours": 30,
+      "studies": 1,
+      "remarks": "보조파이오니아"
+    },
+    {
+      "name": "박행자",
+      "hours": 30,
+      "studies": "",
+      "remarks": "보조파이오니아"
+    },
+    {
+      "name": "신희장(R)",
+      "hours": 55,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이설자(R)",
+      "hours": 59,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "김신자",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정옥금",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "조정옥(R)",
+      "hours": 51,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "홍영재",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    }
+  ],
+  "요한": [
+    {
+      "name": "서정원(R)",
+      "hours": 40,
+      "studies": 1,
+      "remarks": "장로학교 30"
+    },
+    {
+      "name": "정성준",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "경현수",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김다은(R)",
+      "hours": 57,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김래은",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김아인(A)",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김윤경",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김현중(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "류상수",
+      "hours": 15,
+      "studies": 1,
+      "remarks": "보조P"
+    },
+    {
+      "name": "서예하",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "서하율",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "유세림(R)",
+      "hours": 49,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "이나이(R)",
+      "hours": 65,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "이정자(R)",
+      "hours": 77,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이현서",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이현춘",
+      "hours": "",
+      "studies": "",
+      "remarks": "요양병원/연락안됨"
+    },
+    {
+      "name": "이혜진",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정윤자(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정은지(R)",
+      "hours": 50,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "조현희(R)",
+      "hours": 40,
+      "studies": "",
+      "remarks": "출산/육아"
+    }
+  ],
+  "야고보": [
+    {
+      "name": "홍경식",
+      "hours": 30,
+      "studies": 2,
+      "remarks": ""
+    },
+    {
+      "name": "이의민(R)",
+      "hours": 48,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "고옥자",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "권영애",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김미영",
+      "hours": 32,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김은향",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김현이(R)",
+      "hours": 48,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "나국범",
+      "hours": "",
+      "studies": "",
+      "remarks": "참여안함"
+    },
+    {
+      "name": "류현준(R)",
+      "hours": 12,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "손광순(R)",
+      "hours": 55,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "박영하(R)",
+      "hours": 61,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "윤숙자",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이슬",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이재근(R)",
+      "hours": 69,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이희정(R)",
+      "hours": 56,
+      "studies": 3,
+      "remarks": ""
+    },
+    {
+      "name": "임경희",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정홍규(R)",
+      "hours": 24,
+      "studies": "",
+      "remarks": "hlc15시간, 장로학교 4시간"
+    },
+    {
+      "name": "채수철",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "홍지안",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    }
+  ],
+  "베드로": [
+    {
+      "name": "전연식",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "송재구(R)",
+      "hours": 58,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김선영(R)",
+      "hours": 40,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "김율",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "김현섭",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "박하나(R)",
+      "hours": 40,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "박희순(R)",
+      "hours": 80,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "성경조(R)",
+      "hours": 66,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "신현우",
+      "hours": 15,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "안은경(R)",
+      "hours": 32,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "이나경(R)",
+      "hours": 45,
+      "studies": 1,
+      "remarks": ""
+    },
+    {
+      "name": "이성순(R)",
+      "hours": 51,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "전수린",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "전지후",
+      "hours": "✔",
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "정재현(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "제영희(R)",
+      "hours": 50,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "최영덕",
+      "hours": "",
+      "studies": "",
+      "remarks": "무활동"
+    },
+    {
+      "name": "최해린(R)",
+      "hours": 49,
+      "studies": "",
+      "remarks": ""
+    },
+    {
+      "name": "하태우(R)",
+      "hours": 26,
+      "studies": "",
+      "remarks": ""
+    }
+  ]
+}
